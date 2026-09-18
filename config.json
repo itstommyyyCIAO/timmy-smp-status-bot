@@ -1,25 +1,25 @@
 {
     "bot": {
-        "token": "bottoken",
+        "token": "MTU1MDQ0NjI5MjgxODQ2MDc4Mw.G4RWdc.3bq07SnaesScVZV0YrbmaSg1yqk5LWnOeHEQPQ",
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Minecraft Servers",
-                "type": "WATCHING"
+                "name": "TimmySMP Status",
+                "type": "WATCHING..."
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "TimmySMP",
+            "ip": "timmyplayzsmp.seedloaf.gg",
             "port": 25565,
-            "channelId": "1361757965014798526",
+            "channelId": "1550442396662112316",
             "updateInterval": 30000,
             "display": {
                 "type": "chart",
                 "banner": {
-                    "url": "https://github.com/BLKOFFICIAL.png",
+                    "url": "https://i.imgur.com/5V5SLLf.png",
                     "enabled": false
                 },
                 "chart": {
@@ -36,16 +36,16 @@
             "online": "#00ff00",
             "offline": "#ff0000"
         },
-        "title": "🎮 Minecraft Server Status",
+        "title": "TimmySMP Status!",
         "footer": {
-            "text": "Made with ❤️ by Team BLK",
-            "iconURL": "https://github.com/BLKOFFICIAL.png"
+            "text": "Made with ❤️ by Team BLK,Forked by @real_ytommyd (or tommyyy)",
+            "iconURL": "https://i.imgur.com/31gN2O5.png"
         }
     },
     "credits": {
-        "author": "Team BLK",
-        "youtube": "https://www.youtube.com/@team_blk_official",
-        "discord": "adithyadev.blk",
-        "github": "https://github.com/BLKOFFICIAL"
+        "author": "Team BLK,Tommyyy",
+        "youtube": "https://www.youtube.com/@team_blk_official","https://www.youtube.com/@itstiziooo"
+        "discord": "adithyadev.blk","real_ytommyd"
+        "github": "https://github.com/BLKOFFICIAL","https://github.com/itstommyyyCIAO"
     }
 }
